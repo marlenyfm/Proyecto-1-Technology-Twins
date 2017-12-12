@@ -1,0 +1,14 @@
+C:\Users\Marleny Ferreira\source\repos\Mariany twins project\Mariany twins project\bin\Debug\Mariany twins project.exe.config
+C:\Users\Marleny Ferreira\source\repos\Mariany twins project\Mariany twins project\bin\Debug\Mariany twins project.exe
+C:\Users\Marleny Ferreira\source\repos\Mariany twins project\Mariany twins project\bin\Debug\Mariany twins project.pdb
+C:\Users\Marleny Ferreira\source\repos\Mariany twins project\Mariany twins project\obj\Debug\Mariany twins project.csprojResolveAssemblyReference.cache
+C:\Users\Marleny Ferreira\source\repos\Mariany twins project\Mariany twins project\obj\Debug\Mariany twins project.csproj.CoreCompileInputs.cache
+C:\Users\Marleny Ferreira\source\repos\Mariany twins project\Mariany twins project\obj\Debug\Mariany twins project.exe
+C:\Users\Marleny Ferreira\source\repos\Mariany twins project\Mariany twins project\obj\Debug\Mariany twins project.pdb
+C:\Users\Marleny Ferreira\Desktop\Programacion\Mariany twins project\Mariany twins project\bin\Debug\Mariany twins project.exe.config
+C:\Users\Marleny Ferreira\Desktop\Programacion\Mariany twins project\Mariany twins project\bin\Debug\Mariany twins project.exe
+C:\Users\Marleny Ferreira\Desktop\Programacion\Mariany twins project\Mariany twins project\bin\Debug\Mariany twins project.pdb
+C:\Users\Marleny Ferreira\Desktop\Programacion\Mariany twins project\Mariany twins project\obj\Debug\Mariany twins project.csprojResolveAssemblyReference.cache
+C:\Users\Marleny Ferreira\Desktop\Programacion\Mariany twins project\Mariany twins project\obj\Debug\Mariany twins project.csproj.CoreCompileInputs.cache
+C:\Users\Marleny Ferreira\Desktop\Programacion\Mariany twins project\Mariany twins project\obj\Debug\Mariany twins project.exe
+C:\Users\Marleny Ferreira\Desktop\Programacion\Mariany twins project\Mariany twins project\obj\Debug\Mariany twins project.pdb
